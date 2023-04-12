@@ -23,6 +23,7 @@ import {
     jobit,
     tripguide,
     threejs,
+    tata,
   } from "../assets";
   
   export const navLinks = [
@@ -42,19 +43,19 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "iOS Developer",
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Machine Learning Engineer",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "Embedded Systems",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "VLSI",
       icon: creator,
     },
   ];
@@ -116,21 +117,21 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
+      title: "Summer Intern",
+      company_name: "TataSteel",
+      icon: tata,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "Jul 2022 - Aug 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developed an optimization model under the prashikshan programme, to streamline mother coil slit cutting operation.",
+        "After detailed analysis of the problem statement, available dataset and probable solutions, the model was successfully working to optimize the operation of 19232.81 tons of steel coil.",
+        "Collaborated with engineers and machinists to ensure seamless integration and existing processes.",
+        "The project model was approved by the SNTI, and my project mentor Mr. Manoj Kumar Chatterjee, SR CAM IT Tubes, Tube Division, TATA Steel"
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
+      title: "Project Head",
+      company_name: "SEDS Nebula",
       icon: tesla,
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
@@ -141,32 +142,32 @@ import {
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
     },
-    {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
+    // {
+    //   title: "Web Developer",
+    //   company_name: "Shopify",
+    //   icon: shopify,
+    //   iconBg: "#383E56",
+    //   date: "Jan 2022 - Jan 2023",
+    //   points: [
+    //     "Developing and maintaining web applications using React.js and other related technologies.",
+    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+    //     "Implementing responsive design and ensuring cross-browser compatibility.",
+    //     "Participating in code reviews and providing constructive feedback to other developers.",
+    //   ],
+    // },
+    // {
+    //   title: "Full stack Developer",
+    //   company_name: "Meta",
+    //   icon: meta,
+    //   iconBg: "#E6DEDD",
+    //   date: "Jan 2023 - Present",
+    //   points: [
+    //     "Developing and maintaining web applications using React.js and other related technologies.",
+    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+    //     "Implementing responsive design and ensuring cross-browser compatibility.",
+    //     "Participating in code reviews and providing constructive feedback to other developers.",
+    //   ],
+    // },
   ];
   
   const testimonials = [
